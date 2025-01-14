@@ -1,5 +1,6 @@
 # ShopOS
 A lightweight, open-source module enabling seamless AI assistant compatibility for major e-commerce platforms.
+- This is just a comment
 
 # AI Commerce Compatibility Module
 
